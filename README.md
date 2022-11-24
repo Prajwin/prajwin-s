@@ -1,2 +1,5 @@
 # prajwin-s
-practiceee
+
+version 4.7
+qled display
+120hz
