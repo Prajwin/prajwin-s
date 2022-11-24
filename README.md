@@ -1,5 +1,5 @@
 # prajwin-s
 
-version 4.7
-qled display
-120hz
+version 4.8
+oled display
+144hz
